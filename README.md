@@ -8,4 +8,4 @@
 
 ## 기타
 
-* [Python_study](./c/pystudy)* 
+* [Python_study](./Python/pystudy)* 
