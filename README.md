@@ -8,4 +8,4 @@
 
 ## 기타
 
-* [Python_study](./Python/pystudy)* 
+* [Python_study](https://github.com/soomin98/Python)
