@@ -8,4 +8,4 @@
 
 ## 기타
 
-* [마크다운 문법 정리](/)
+* [Python_study](./c/pystudy)* 
